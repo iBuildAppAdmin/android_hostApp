@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center">
+    <TextView  
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content" 
+        android:text="Class name (full qualified)"
+        android:visibility="invisible"/>
+    <EditText
+        android:id="@+id/et_mime"
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content"
+        android:lines="1"
+        android:visibility="invisible"/>
+    <TextView  
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content" 
+        android:text="xml data"
+        android:visibility="invisible"/>
+    <EditText
+        android:id="@+id/et_xml_data"
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content"
+        android:lines="7"
+        android:visibility="invisible"/>
+    <Button
+        android:id="@+id/btn_launch"
+        android:layout_width="200dp" 
+        android:layout_height="wrap_content"
+        android:text="Launch"/>
+</LinearLayout>
+
