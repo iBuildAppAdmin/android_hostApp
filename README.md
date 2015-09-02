@@ -1,4 +1,4 @@
-# android_hostApp
+# android hostApp
 The "hostApp" folder contains project files for the host-application. These project files are used for launching and deploying your Android Feature. Normally there is no need to change these files.
 
 The "replacement" folder contains files and folders of the project that serves as a template for your Android Feature. This is the place where you will allocate your source code.
