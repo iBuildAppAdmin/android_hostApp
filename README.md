@@ -1,3 +1,4 @@
+Use our code to save yourself time on cross-platform, cross-device and cross OS version development and testing
 # android hostApp
 The "hostApp" folder contains project files for the host-application. These project files are used for launching and deploying your Android Feature. Normally there is no need to change these files.
 
